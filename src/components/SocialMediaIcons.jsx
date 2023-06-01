@@ -31,6 +31,7 @@ const SocialMediaIcons = () => {
                 <img src="../assets/instagram.png" alt="instagram-link" />
             </a>
         </div>
+        
 
     )
 }
